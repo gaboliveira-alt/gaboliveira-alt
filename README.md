@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gabriel and I'm a CSTSC Student, from UESPI - Parnaíba</p>
+<p align="left">My name is Gabriel and I'm a CSTSC Student, from UESPI - Parnaíba.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Creating codes since 2024<br>📚 I'm currently learning Python and C<br>🎯 Goals: Processing...<br>🎲 Fun fact: 100 hours played in Bloodborne</p>
+<p align="left">💻 Creating codes since 2024.<br>📚 I'm currently learning Python and C.<br>🎯 Goals: Processing...<br>🎲 Fun fact: 100 hours played in Bloodborne.</p>
 
 ###
 
