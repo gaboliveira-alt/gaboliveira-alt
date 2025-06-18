@@ -49,6 +49,22 @@
 
 ###
 
+<h2 align="left">Social Medias</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabriel-oliveira-pinto-75a480326/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="gabrieloliveira.dev1@outlook.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
+  </a>
+  <a href="https://wa.me/+5586988888498">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+  </a>
+</div>
+
 </div>
 
 ###
