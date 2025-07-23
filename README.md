@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Creating codes since 2024.<br>📚 I'm currently learning Python, C and Typescript.<br>🎯 Goals: Processing...<br>🎲 Fun fact: 108 hours played in Dragons Dogma.</p>
+<p align="left">💻 Creating codes since 2024.<br>📚 I'm currently learning Python, C, Typescript and Java.<br>🎯 Goals: Processing...<br>🎲 Fun fact: 108 hours played in Dragons Dogma.</p>
 
 ###
 
@@ -25,6 +25,11 @@
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img witdh="12"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img witdh="12"  />
+</div>
+
+###
 </div>
 
 ###
