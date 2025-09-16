@@ -13,7 +13,7 @@
 <p align="left">💻 Creating codes since 2024.<br>📚 I'm currently learning:
 <ul>
     <li>Python</li>
-    <li>TypeScipt</li>
+    <li>TypeScript</li>
     <li>C</li>
     <li>HTML</li>
 </ul>
