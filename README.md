@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">💻 Creating codes since 2024.<br>📚 I'm currently learning Python, C, Typescript.<br>🎯 Goals: Processing...<br>🎲 Fun fact: 108 hours played in Dragons Dogma.</p>
+<p align="left">💻 Creating codes since 2024.<br>📚 I'm currently learning:
+<ul>
+    <li>Python</li>
+    <li>TypeScipt</li>
+    <li>C</li>
+    <li>HTML</li>
+</ul>
+
+🎯 Goals: Processing...<br>🎲 Fun fact: 108 hours played in Dragons Dogma.</p>
 
 ###
 
