@@ -1,88 +1,84 @@
-<h1 align="left">Hello There!</h1>
+<h1 align="center">Hey! 👋 I'm Gabriel Pinto</h1>
 
-###
+<p align="center">
+  🎓 Computer Systems student at UESPI – Parnaíba <br>
+  📊 Currently focused on strengthening my knowledge of Python OOP fundamentals and advancing into more complex programming concepts. <br>
+  💻 Full Stack Developer committed to building scalable, efficient solutions while also pursuing professional growth in the field of Cybersecurity. <br>
+</p>
 
-<p align="left">My name is Gabriel and I'm a CSTSC Student, from UESPI - Parnaíba.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">💻 Creating codes since 2024.<br>📚 I'm currently learning:
-<ul>
-    <li>Python</li>
-    <li>TypeScript</li>
-    <li>C</li>
-    <li>HTML</li>
-</ul>
-
-🎯 Goals: Processing...<br>🎲 Fun fact: 108 hours played in Dragons Dogma.</p>
-
-###
-
-<h2 align="left">Programming Language</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img witdh="12"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img witdh="12"  />
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaboliveira-alt&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gaboliveira-alt&show_icons=true&theme=tokyonight" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaboliveira-alt&theme=tokyonight" />
 </div>
 
-###
+---
 
-<h2 align="left">Tools</h2>
+## 🚀 Favorite Tech  
 
-###
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-</div>
+---
 
-###
+## 📂 Featured Projects  
 
-<h2 align="left">Social Medias</h2>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🖥️ [**Landing Page**](https://gaboliveira-alt.github.io/landing-page-petsaude/) | Static landing page built using only HTML and CSS | HTML, CSS |
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-oliveira-pinto-75a480326/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="gabrieloliveira.dev1@outlook.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
-  </a>
-  <a href="https://wa.me/+5586988888498">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
-</div>
+## 📈 Current Roadmap  
 
-</div>
+- 🐍 Mastering Python OOP and advanced programming techniques
+- 🌱 Building strong Python foundations with Django in mind
+- ⚡ Refreshing TypeScript and Node.js skills while diving into JavaScript
+- 💻 Returning to C and deepening skills
+- 🚀 Continuously improving code quality, architecture, and problem-solving skills
 
-###
-</div>
+---
 
-###
+## 📱 Connect with Me  
 
-###
+<a href="https://www.instagram.com/gabriel_olivraa/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+</a>
+<a href="https://www.linkedin.com/in/gabriel-oliveira-pinto-75a480326/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=#7AA2F7&labelColor=#1A1B26" />
+</a>
+
+---
+
+## ✨ About Me  
+
+- 🚀 Back-end enthusiast focused on Python and clean architecture
+- 🐍 Passionate about Python OOP and building strong foundations for Django
+- ⚡ Interested in JavaScript, TypeScript, and Node.js, refreshing and expanding skills
+- 🛡️ Exploring Cybersecurity fundamentals and secure coding practices
+- 💻 Returning to C programming to deepen and strengthen knowledge
+- 🤝 Always open to collaborations, learning, and new challenges
+
+---
+
+<!-- Avatar GIF -->
+<p align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlua3F0bHhwdnUybXY4Y2NjYzlicTVlMHMxMHljdHpmYWlsbGgxZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oo6B3CLXtqFck/giphy.gif" />
+</p>
+
+
+<p align="center">
+  🚀 Lelouch vi Britannia commands you!
+</p>
