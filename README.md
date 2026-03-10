@@ -33,6 +33,8 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🖥️ [**Landing Page**](https://gaboliveira-alt.github.io/landing-page-petsaude/) | Static landing page built using only HTML and CSS | HTML, CSS |
+| 🖥️ [**Login Screen**](https://loginscreentailwind.netlify.app/) | Static Login Screen built using only HTML and Tailwind | HTML, Tailwind |
+| 🖥️ [**Checkout Screen**](https://checkoutscreentailwind.netlify.app/) | Static Checkout Screen built using only HTML and Tailwind | HTML, Tailwind |
 
 ---
 
